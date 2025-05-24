@@ -13,49 +13,41 @@
 
 ---
 
-## 🚀 **Nuestros Servicios Premium**
+## ✨ **Nuestros Servicios Clave**
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin: 40px 0;">
 
-### <div style="color: #9C27B0; font-size: 1.5rem;">🌐 Desarrollo Web</div>
-<div style="background: linear-gradient(145deg, #f9f9ff, #ffffff); padding: 25px; border-radius: 15px; box-shadow: 0 8px 20px rgba(156, 39, 176, 0.15);">
+### <div style="background: #9C27B0; color: white; padding: 15px; border-radius: 8px 8px 0 0; font-size: 1.3rem;">🌐 Desarrollo Web</div>
+<div style="border: 1px solid #e0e0e0; border-radius: 0 0 8px 8px; padding: 20px;">
   
-- 🏢 **Webs Corporativas** - Diseño adaptado a tu marca  
-- 🛍️ **eCommerce** - Soluciones completas para vender online  
-- ⚙️ **Aplicaciones Web** - Desarrollo a medida  
-- 🔧 **CMS Expertos** - WordPress & Shopify  
-  
-<div align="center" style="margin-top: 20px;">
-  <img src="https://apistrapi.exyo.es/uploads/Diseno_sin_titulo_8_b5d21ce07a.png" alt="Desarrollo Web" style="max-width: 50%;width: 50%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-</div>
+- **Páginas web corporativas**  
+- **Tiendas online (eCommerce)**  
+- **Aplicaciones web a medida**  
+- **WordPress & Shopify**  
+- **Webs para PYMES**  
 
 </div>
 
-### <div style="color: #9C27B0; font-size: 1.5rem;">📈 Marketing Digital</div>
-<div style="background: linear-gradient(145deg, #f9f9ff, #ffffff); padding: 25px; border-radius: 15px; box-shadow: 0 8px 20px rgba(156, 39, 176, 0.15);">
+### <div style="background: #7B1FA2; color: white; padding: 15px; border-radius: 8px 8px 0 0; font-size: 1.3rem;">📈 Marketing Digital</div>
+<div style="border: 1px solid #e0e0e0; border-radius: 0 0 8px 8px; padding: 20px;">
 
-- 🔍 **SEO Avanzado** - Posicionamiento orgánico  
-- 📢 **Publicidad Digital** - Google Ads & Meta Ads  
-- ✉️ **Email Marketing** - Campañas convertibles  
-- 🎯 **Estrategias de Contenido** - Atrae clientes cualificados  
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://apistrapi.exyo.es/uploads/dinosfactus1_1024x724_52ae710e84.png" alt="Marketing Digital" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-</div>
+- **SEO y Posicionamiento**  
+- **Publicidad Digital (Google Ads, Meta)**  
+- **Email Marketing**  
+- **Estrategias de Contenido**  
+- **Gestión de Redes Sociales**  
+- **SEM**  
 
 </div>
 
-### <div style="color: #9C27B0; font-size: 1.5rem;">🎨 Diseño & Branding</div>
-<div style="background: linear-gradient(145deg, #f9f9ff, #ffffff); padding: 25px; border-radius: 15px; box-shadow: 0 8px 20px rgba(156, 39, 176, 0.15);">
+### <div style="background: #AB47BC; color: white; padding: 15px; border-radius: 8px 8px 0 0; font-size: 1.3rem;">🎨 Diseño & Multimedia</div>
+<div style="border: 1px solid #e0e0e0; border-radius: 0 0 8px 8px; padding: 20px;">
 
-- 🏻 **Identidad Visual** - Logos y manual de marca  
-- 🖌️ **UI/UX Design** - Experiencias de usuario intuitivas  
-- 🎨 **Diseño Gráfico** - Materiales impresos y digitales  
-- 🎥 **Producción Audiovisual** - Contenido profesional  
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://apistrapi.exyo.es/uploads/diseno_impresion_vigo_galicia_bf72ef23e4.webp" alt="Diseño Gráfico" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-</div>
+- **Identidad Corporativa**  
+- **UI/UX Design**  
+- **Diseño Gráfico**  
+- **Producción Audiovisual**  
+- **Diseño Multimedia**  
 
 </div>
 
